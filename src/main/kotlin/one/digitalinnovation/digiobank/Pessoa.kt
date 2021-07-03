@@ -5,13 +5,14 @@ class Pessoa {
 
     var cpf: String = "433.455.677-66"
     private set
-    }
+
+    constructor()
+    fun PessoaInfo() = "$nome e $cpf"
+
+}
 
 fun main() {
     val Luis = Pessoa()
-
-    println(Luis.nome)
-    println(Luis.cpf)
-
+    println(Luis.PessoaInfo())
 
 }
