@@ -7,3 +7,4 @@ class Gerente(nome: String,
     override fun calculoAuxilio(): Double = salario *0.4
 
 }
+a
