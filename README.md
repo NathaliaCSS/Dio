@@ -2,7 +2,6 @@
 
 
 
-**Projeto feto com Kotlin, seguido as aulas da Digital Innovation One**!!!!!
-
+**Projeto feito com kotlin, seguindo orientações do prof Jether da Digital Innovation**
 
 
